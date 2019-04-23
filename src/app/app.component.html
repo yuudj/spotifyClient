@@ -1,0 +1,8 @@
+
+<button *ngIf="!isAuthenticated" (click)="login()">LOGIN </button>
+<button *ngIf="isAuthenticated" (click)="logout()">logout </button>
+<button *ngIf="isAuthenticated" (click)="getData()">Obtener datos de usuarios </button>
+
+<p>{{profile | json}}</p>
+
+<router-outlet></router-outlet>
