@@ -4,7 +4,7 @@ A sample Angular 7 app consuming spotify Web API
 This project was generated with 
 - [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 - [ng-swagger-gen](https://github.com/albatrosary/ng-swagger-gen): Automatic code generation for Swagger | OpenApi 
-- [APIS Gusu's spotify swagger file](https://api.apis.guru/v2/specs/spotify.com/v1/swagger.json)
+- [APIS Gurus's spotify swagger file](https://api.apis.guru/v2/specs/spotify.com/v1/swagger.json)
 - [OAuth 2 and OpenId Connect (OIDC) for Angular.](https://github.com/manfredsteyer/angular-oauth2-oidc)
     - [Register Your App](https://developer.spotify.com/documentation/general/guides/app-settings/)
     - [Spotify Implicit Grant Flow](https://developer.spotify.com/documentation/general/guides/authorization-guide/#implicit-grant-flow)
